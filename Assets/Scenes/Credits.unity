@@ -293,7 +293,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -296.23, y: -98.787}
+  m_AnchoredPosition: {x: -250, y: -98.787}
   m_SizeDelta: {x: 592.46, y: 454.6006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &260847927
@@ -316,7 +316,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Design Manager \n\nMusical Lead \n\nArt Lead \n\nGame Programmers \n\n"
+  m_text: "Design Manager \n\nMusical Lead \n\nArt Lead \n\nLead Programmers \n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -499,7 +499,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 422.54004, y: -98.787}
+  m_AnchoredPosition: {x: 463, y: -98.787}
   m_SizeDelta: {x: 845.0798, y: 454.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &556647734
@@ -522,22 +522,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'FILL ME LATER
-
-
-    FILL ME LATER
-
-
-    FILL ME LATER
-
-
-    FILL ME LATER  
-    &  FILL ME LATER
-
-
-
-
-'
+  m_text: "BigDylann / Dylan Liriano\n\nOzymandias\n\nStephen S\n\nCrimson Lotus  
+    &  Rui / Andrew M \n\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
